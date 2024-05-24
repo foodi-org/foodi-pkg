@@ -1,4 +1,4 @@
-module github.com/foodi-org/foodi-pkg/pkgmysql
+module github.com/foodi-org/foodi-pkg/mysql
 
 go 1.22.3
 

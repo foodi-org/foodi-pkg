@@ -1,4 +1,4 @@
-package pkgmysql
+package mysql
 
 import (
 	"gorm.io/driver/mysql"
